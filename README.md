@@ -5,4 +5,4 @@
 ## Project
 
 
-Link to project [project](https://github.com/AXJAS/knapsac.problem/)
+Link to DSPP project dataset [project](https://github.com/cj-mori/DSPP-project/blob/main/banking-transaction-risk-analytics-dataset.ipynb)
