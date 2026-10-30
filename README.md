@@ -5,4 +5,4 @@
 ## Project
 
 
-[Link to DSPP project dataset] (https://github.com/cj-mori/DSPP-project/blob/main/banking-transaction-risk-analytics-dataset.ipynb)
+Link to DSPP project dataset [click here] (https://github.com/cj-mori/DSPP-project/blob/main/banking-transaction-risk-analytics-dataset.ipynb)
